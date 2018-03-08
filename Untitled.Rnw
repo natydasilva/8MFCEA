@@ -1,0 +1,630 @@
+\documentclass[9pt]{beamer}
+%\usepackage[dvips]{graphicx}
+\usepackage{mathptmx}
+\usepackage{verbatim}
+\usepackage{fancyvrb}
+\usepackage{lipsum}
+\usepackage{natbib}
+\usepackage{verbatimbox}
+\usepackage{beamerthemesplit}
+\useinnertheme{circles,rounded}
+
+\definecolor{uofsgreen}{RGB}{100,20,60}
+\usecolortheme[named=uofsgreen]{structure}
+%\usetheme[height=7mm]{Rochester} 
+%\useoutertheme{smoothtree}
+%\usecolortheme{structure}
+%\usetheme{Darmstadt}
+%\usefonttheme[onlylarge]{structurebold}
+%\setbeamerfont{frametitle}{size=\normalsize,series=\bfseries}
+%\setbeamertemplate{navigation symbols}{}
+
+\author{Natalia da Silva\\
+FCEA-IESTA
+}
+
+\title{Algunas iniciativas con perspectiva de g\'enero en STEM}
+
+
+\titlegraphic{\includegraphics[width=1.5cm]{udelar}\hspace*{6cm}~%
+  % \includegraphics[width=2cm]{useR2015}
+}
+
+\date{8 de Marzo}
+\begin{document}
+ \frame{\titlepage}
+
+%\tableofcontents[hidesubsections]
+
+
+
+\section{Motivaci\'on}
+\begin{frame}[fragile]
+ \frametitle{Motivaci\'on}
+
+ONU: ``La brecha de g\'enero en los sectores de la ciencia, la tecnolog\'ia, la ingenier\'ia y las matem\'aticas persiste desde hace a\~nos en todo el mundo. A pesar de que la participaci\'on de las mujeres en las carreras de grado superior ha aumentado enormemente, est\'an todav\'ia insuficientemente representadas en estos campos''. \\
+
+\vspace{0.5cm}
+
+Seg\'un datos de UNESCO el 30\% de los investigadores son mujeres.
+
+\end{frame}
+
+
+\section{Participaci\'on en STEM}
+\begin{frame}[fragile]
+ \frametitle{Participaci\'on en STEM en el mundo}
+
+El \% de estudiantes en STEM:
+\vspace{0.5cm}
+
+\begin{itemize}
+\item Tecnolog\'ia de la informaci\'on y comunicaci\'on 3\% \\
+\vspace{0.5cm}
+\item Matem\'atica y Ciencias naturales 5\%\\
+\vspace{0.5cm}
+\item Ingenier\'ia 8\%\\
+\vspace{0.5cm}
+\item Salud 15\%\\
+
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+ \frametitle{Participaci\'on en STEM en Uruguay}
+
+En Uruguay, tambi\'en estamos subrepresentadas en el \'ambito educativo y laboral que nuclea los aprendizajes y las posibilidades de desarrollar capacidades en STEM.
+
+
+
+ M\'ultiples factores:
+ \begin{itemize}
+ \item Reproducci\'on de estereotipos y creencias 
+ 
+ \item Escasa visibilizaci\'on de mujeres dedicadas a carreras de STEM
+ 
+ \item Falta de est\'imulos cient\'ificos
+ 
+ \item Falta de roles femeninos que incentiven a las ni\~nas y adolescentes que influyan en su confianza y la elecci\'on de sus carreras.
+ 
+ \end{itemize}
+ 
+\end{frame}
+
+\begin{frame}
+ \frametitle{Porcentaje de ingresos y egresos por \'area de estudio seg\'un sexo. Año 2015}
+\begin{figure}
+\includegraphics[scale=.3]{fig1}
+\end{figure}
+\end{frame}
+
+% 
+% \begin{frame}
+% \frametitle{Estrategias para promover la inclusi\'on de las mujeres en las \'areas de STEM}
+% 
+% Desarrollar acciones para visibilizar mujeres vinculadas a las áreas STEM y sus contribuciones, que aporten a su reconocimiento y a proveer modelos femeninos de referencia en las áreas que puedan contribuir a incentivar el que niñas y adolescentes opten por seguir estudios y orientaciones ocupacionales en STEM.
+% 
+% \end{frame}
+
+
+\section{Iniciativas en Uruguay}
+\begin{frame}[fragile]
+ 
+
+\begin{itemize}
+\item Matem\'atica en el cono sur
+\vspace{0.5cm}
+\item R-Ladies
+\vspace{0.5cm}
+\item Girls in Tech Uruguay
+
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+ \frametitle{Matem\'atica en el cono sur}
+ 
+\begin{itemize}
+\item Talleres de colaboraci\'on entre investigadores sobre problemas matem\'aticos.
+
+\item Talleres con enfoque en la equidad de g\'enero en el liderazgo
+
+\item Propuesta mixta con grupos liderados por mujeres.
+
+\item Impulsar la participaci\'on protag\'onica femenina y dar mayor visualizaci\'on al trabajo realizado por investigadoras en la regi\'on.
+\end{itemize}
+
+P\'agina web: https://www.fing.edu.uy/~eellis/mcs.html
+\end{frame}
+
+
+\begin{frame}[fragile]
+\begin{itemize}
+\item Somos 7 grupos con aprox. 5 personas que vamos a trabajar en el correr de a\~no.
+
+\item Entre el 3 y 7 de Diciembre nos juntamos todos a trabajar intensivamente y mostrar el avance en los temas planteados
+
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}[fragile]
+ \frametitle{R-Ladies }
+ \begin{itemize}
+\item R es uno de los softwares estad\'isticos m\'as utilizados a nivel mundial, es libre y con una comunidad muy activa y colaborativa.
+ 
+\item R-Ladies es una organizaci\'on internacional que promueve la diversidad de g\'enero en la comunidad de R a trav\'es de reuniones presenciales, virtuales y mentor\'ias en un espacio amigable y seguro.
+\end{itemize}
+
+\end{frame} 
+
+
+\begin{frame}[fragile]
+ \frametitle{R-Ladies }
+ \begin{itemize}
+\item Se inicia en 2012 en San Francisco
+\item M\'as de 30 pa\'ises, 60 ciudades y 15000 miembros.
+\item Hay lideres globales que definen la pol\'itica de la organizacion
+\item Se organiza en chapters y cada uno es organizado por mujeres
+\item Las charlas y workshops son tambi\'en liderados por mujeres
+\item Tenemos c\'odigo de conducta de no agresi\'on y los participantes tienen que estar de acuerdo a respetar
+
+\end{itemize}
+
+\end{frame} 
+
+\begin{frame}[fragile]
+ \frametitle{Por qu\'e R-Ladies }
+
+Las mujeres est\'an subrep
+resentadas en cada rol en la comunidad R:
+\begin{itemize}
+\item desarrollo de paquetes
+\item conferencistas invitadas
+\item integrantes de comit\'es 
+ \item moderadoras 
+\item panelistas invitadas
+\item tutoriales 
+\item  posiciones de liderazgo en general
+\end{itemize}
+
+
+\end{frame} 
+
+
+\begin{frame}[fragile]
+ \frametitle{R-Ladies Montevideo}
+
+
+\begin{itemize}
+\item Empezamos: Junio 2017
+\item Primer encuentro Agosto 2017
+\item 112 miembros 
+\item meetup rladies.uy
+\item twitter: @RLadiesMVD
+\item Facebook: RLadiesMVD
+\item email: montevideo@rladies.org
+\item M\'as preguntas sobre R-Ladies: natalia@iesta.edu.uy  @pacocuak
+\end{itemize}
+
+
+\end{frame} 
+
+
+\begin{frame}
+ \frametitle{Nosotr@s somos R-Ladies!}
+\begin{figure}
+\includegraphics[scale=.3]{foto}
+\end{figure}
+\end{frame}
+
+
+\begin{frame}[fragile]
+ \frametitle{Girls in tech}
+
+\textbf{Girls in Tech}, es una organizaci\'on global sin fines de lucro que tiene por objetivo estimular que más ni\~nas y mujeres estudien y emprendan en \'areas relacionadas con la ciencia y la tecnolog\'ia.
+
+Primer encuentro en Setiembre 2016 
+\end{frame}
+
+\begin{frame}[fragile]
+ \frametitle{}
+
+Movilic\'emonos con iniciativas activas que muestren nuestro trabajo y el de otras mujeres. Que incentiven a otras a hacer lo que a nosotras tanto nos gusta.
+
+
+\end{frame}
+
+% 
+% \item Se organiza en chapters y cada uno es organizado por mujeres
+% \item Las charlas y workshops son tambi\'en liderados por mujeres
+% 
+% \item Tenemos c\'odigo de conducta de no agresi\'on y los participantes tienen que estar de acuerdo a respetar
+
+
+% \section{Experiencia personal}
+% \begin{frame}[fragile]
+%  \frametitle{Ejemplo}
+% 
+% \begin{itemize}
+% \item 20 cursos, s\'olo 3 docentes mujeres, 1 obligatorio y 2 opcionales. 
+% \item 8/27 mujeres en el PhD en estadística.
+% \item
+% \end{itemize}
+% 
+% \end{frame}
+
+
+% 
+% \subsection{Example}
+% \begin{frame}
+% \frametitle{Crab data}
+% \begin{columns}
+% \begin{column}{6cm}
+% Measurements on rock crabs, 200 observations. 4 classes species-sex. 
+% \begin{enumerate}
+% \item FL the size of the frontal lobe length, in mm
+% \item RW rear width, in mm
+% \item CL length of mid-line of the carapace, in mm
+% \item CW maximum width of carapace, in mm
+% \item BD depth of the body; for females, measured after displacement of the abdomen, in mm
+% \end{enumerate}
+% \end{column}
+% \begin{column}{6cm}
+% 
+% \begin{figure}
+% \includegraphics[scale=.6]{crabdata} 
+% \caption{Crab data}
+% \end{figure}
+% \end{column}
+% \end{columns}
+% \end{frame}
+% 
+% \begin{frame}
+% \begin{columns}
+% \begin{column}{6cm}
+% Decision boundaries from rpart
+% \includegraphics[width=6cm,height=6cm ]{crabrpartbound}
+% \end{column}
+% \begin{column}{6cm}
+% Decision boundaries form PPtree
+% \includegraphics[width=6cm,height=6cm ]{crabppbound} 
+% \end{column}
+% \end{columns}
+% \end{frame}
+% 
+% 
+% \section{Objective}
+% \begin{frame}[fragile]
+% \frametitle{Previous work and objective}
+% \begin{enumerate}
+% \item Previous work
+% \begin{itemize}
+% \item Oblique decision trees.  \cite{kim2001}, \cite{brodley}, \cite{tan2005mml}, \cite{truong2009fast}. In R \verb+oblique.tree+.  
+% \item Oblique random forest. \cite{tan2006jj}, \cite{menze2011oblique}. In R \verb+obliqueRF+.
+% \end{itemize}
+% \item Objective
+% \begin{itemize}
+% \item \verb+PPforest+ implements a projection pursuit classification random forest 
+% \item Adapts random forest to utilize combinations of variables in the tree construction
+% \item Projection pursuit classification trees are used to build the forest, ( from \verb+PPtreeViz+ package )
+% \end{itemize}
+% \end{enumerate}
+% \end{frame}
+% 
+% 
+% 
+% 
+% \section{Projection pursuit}
+% \subsection{Projection pursuit}
+% \begin{frame}
+% \frametitle{Projection pursuit}
+% Find interesting low-dimensional linear projections of high-dimensional data optimizing some specified function called the projection pursuit index.
+% 
+% Advantages:
+% \begin{itemize}
+% \item Able to bypass the curse of dimensionality, because work in low-dimensional linear projections.
+% \item Relevant projection pursuit indexes are able to ignore irrelevant variables
+% \end{itemize}
+% 
+% We use LDA and PDA index in our PPforest.
+% %Disadvantage:\\
+% %\begin{itemize}
+% %\item Poor to deal with highly non linear structures.
+% %\item High demand in computer time
+% %\end{itemize}
+% \end{frame}
+% % \subsection{PP index}
+% % \begin{frame}
+% % \frametitle{LDA and PDA}
+% % 
+% % \small{
+% % \begin{equation}
+% %  I_{LDA}(A) = \left\{ 
+% %   \begin{array}{l l}
+% %     1-\frac{|A^T WA|}{|A^T(W+B)A|} &  \text{for} |A^T(W+B)A|\neq 0\\
+% %     0 &  \text{for}  |A^T(W+B)A|= 0
+% %   \end{array} \right.
+% %   \end{equation}
+% %   \begin{equation}
+% % I_{PDA}(A,\lambda)=1-\frac{|A^T\{(1-\lambda)offdiag(W)+diag(W)\}A|}{|A^T\{(1-\lambda)offdiag(w)+diag(W)+B\}A|}
+% % \end{equation}
+% % }
+% % 
+% % \small{
+% % Where A is an orthonormal projection onto a $k$-dimensional space and $\lambda \in [0,1)$ is a pre-determined parameter. $B^S$ is the between-class sums of squares  and $W$ is the within-class sums of square.}
+% % 
+% % \end{frame}
+% 
+% 
+% \subsection{PPtree}
+% \begin{frame}[fragile]
+% \frametitle{PPtree}
+% 
+% Combines tree structure methods with projection pursuit dimension reduction.
+% \verb+PPtree+ projection pursuit classification tree:
+% \begin{enumerate}
+% \item In each node a PP index is maximized to find the optimal $1-D$ projection, $\alpha^*$, for separating all classes in the current data.
+% \item Reduce the number of classes to two, by comparing means and assign new labels, $G_1$ or $G_2$ ($y_i^*$) to each observation.
+% \item Re-do PP with these new group labels finding the $1-D$ projection, $\alpha$ using $(x_i,y^*)$.
+% \item Calculate the decision boundary c, keep $\alpha $ and $c$.
+% \item Separate data into two groups using new group labels $G_1$ and $G_2$.
+% \item For each group, stop if there is only one class else repeat the procedure, the splitting steps are iterated until the last two classes are separated.
+% \end{enumerate}
+% \end{frame}
+% 
+% 
+% 
+% 
+% \section{PPtree}
+% 
+% \begin{frame}
+% \frametitle{rpart vs PPtree}
+% \begin{columns}
+% \begin{column}{6cm}
+% \begin{figure}
+% \includegraphics[scale = .35]{crabrpart} 
+% \caption{rpart tree using crab data}
+% \end{figure}
+% \end{column}
+% \begin{column}{6cm}
+% \begin{figure}
+% \includegraphics[scale = .35]{crabppforest} 
+% \caption{PPtree using crab data}
+% \end{figure}
+% \end{column}
+% \end{columns}
+% \end{frame}
+% 
+% \begin{frame}[fragile]
+% \frametitle{Features of PPtee}
+% \begin{itemize}
+% \item Produces a simple tree.
+% \item Uses association between variables to find separation.
+% \item If a linear separation exists, \verb+PPtree+ produces a tree without misclassification.
+% \item One class is assigned only to one final node, depth of the tree is at most the number of classes.
+% \item The projection coefficients used to obtain the dimension reduction at each node can be used to determine the variable importance (variables are standardized).
+% \end{itemize}
+% \end{frame}
+% 
+% 
+% \section{Projection pursuit random forest}
+% \subsection{PPforest}
+% \begin{frame}[fragile]
+% \frametitle{PPforest }
+% A random forest is an ensemble learning method, built on bagged trees. 
+% \verb+PPforest+ conducts a supervised classification using projection pursuit trees and random forest ideas.
+% Using this combination we are take into account the association between variables to find separation that is not considered in a classic random forest.  
+% \end{frame}
+% 
+% 
+% \begin{frame}[fragile]
+% \frametitle{PPforest algorithm} 
+% \begin{enumerate}
+% \item Input: $L=\{(x_i,y_i), i=1,\ldots n\},\;\;\ y_i\in \{1,\ldots g\} $ where $y_i$ is the class information
+% \item Draw $b=1\ldots B$ bootstrap samples, $L^{*b}$ of size $n$ from $L$
+% \item For each bootstrap sample grow a \verb+PPtree+ classifier $T^{*b}$ and for every node a sample of m variables without replacement is drawn.
+% \item Predict the classes of each case not included in $L^*$ and compute the oob error.
+% \item Based on majority vote predict the class in a new data set.
+% \end{enumerate}
+% \end{frame}
+% 
+% 
+% \subsection{PPforest package}
+% \begin{frame}[fragile]
+% \frametitle{PPforest package}
+% \begin{table}
+% \begin{tabular}{lp{7cm}}\hline
+% \verb+PPforest+:& Run a Projection pursuit random forest\\
+% \verb+predict.PPforest+:&Vector with predicted values from a PPforest object\\
+% \verb+ppf_importance+:& Plot a global measure of variable importance\\
+% \verb+pproxy_plot+: & Proximity matrix visualization\\ 
+% \verb+ppf_oob_error+& OOB error summary and visualization\\ \hline
+% \verb+var_selec+:& Index id for variables set, sample variables without replacement with constant sample proportion.\\
+% \verb+train_fn+:& Index id for training set, sample in each class with constant sample proportion.\\ 
+% \verb+PPtree_split+:& Projection pursuit classification tree with random variable selection in each split\\
+% \verb+trees_pp+:& Projection pursuit trees for bootstrap samples.\\
+% \verb+ppf_bootstrap+: & Draws bootstrap samples with strata option.\\
+% \verb+print.PPforest+:& Print PPforest object\\ \hline
+% \end{tabular}
+% \end{table}
+% \end{frame}
+% 
+% 
+% \begin{frame}[fragile]
+% \frametitle{Crab data}
+% \fontsize{6pt}{6pt}\selectfont
+% \begin{verbatim}
+% pprf.crab <- PPforest::PPforest(data = crab, size.tr = 2/3, m = 500, size.p = .7,  
+%               PPmethod = 'LDA', strata = TRUE)
+%               str(pprf.crab, max.level = 1)
+% List of 19
+%  $ prediction.training: chr [1:132] "BlueMale" "BlueMale" "BlueMale" "BlueMale" ...
+%  $ training.error     : num 0.0303
+%  $ prediction.test    : chr [1:68] "BlueFemale" "BlueMale" "BlueMale" "BlueFemale" ...
+%  $ error.test         : num 0.0882
+%  $ oob.error.forest   : num 0.0303
+%  $ oob.error.tree     : num [1:500] 0.1591 0.3265 0.0204 0.1707 0.0536 ...
+%  $ boot.samp          :Classes grouped_df, tbl_df, tbl and 'data.frame':  132 obs. of  6 
+%  $ output.trees       :Classes rowwise_df, tbl_df and 'data.frame':	500 obs. of  2 variables:
+%  $ proximity          :'data.frame':	8778 obs. of  3 variables:
+%  $ votes              : num [1:132, 1:4] 0.428 0.351 0.291 0.358 0.271 ...
+%  $ prediction.oob     : chr [1:132] "BlueMale" "BlueMale" "BlueMale" "BlueMale" ...
+%  $ n.tree             : num 500
+%  $ n.var              : num 3
+%  $ type               : chr "Classification"
+%  $ confusion          : num [1:4, 1:5] 32 1 0 0 1 32 0 0 0 0 ...
+%  $ call               : language PPforest::PPforest(data = crab, size.tr = 2/3, m = 500, PPmethod = "LDA", size.p = 0.7, strata = TRUE)
+%  $ train              :'data.frame':	132 obs. of  6 variables:
+%  $ test               :'data.frame':	68 obs. of  5 variables:
+%  $ vote.mat           : chr [1:500, 1:132] "BlueFemale" "BlueFemale" "BlueMale" "BlueMale" ...
+%  - attr(*, "class")= chr "PPforest"
+% \end{verbatim}
+% \end{frame}
+% 
+% 
+% \begin{frame}[fragile]
+% \frametitle{Comparison to randomForest}
+% \begin{columns}
+% \begin{column}{6cm}
+% \fontsize{6pt}{7pt}\selectfont
+% \begin{verbatim}
+% rf.crab
+% Call:
+%  randomForest(formula = Type ~ ., data = crab,
+%               proximity = TRUE) 
+%                Type of random forest: classification
+%                      Number of trees: 500
+% No. of variables tried at each split: 2
+% 
+%         OOB estimate of  error rate: 20.5%
+% Confusion matrix:
+%              BF  BM  OF  OM class.error
+% BF           41   3   6   0        0.18
+% BM            3  39   0   8        0.22
+% OF            4   0  41   5        0.18
+% OM            2   5   5  38        0.24
+% \end{verbatim}
+% \end{column}
+% \begin{column}{6cm}
+% \fontsize{6pt}{7pt}\selectfont
+% \begin{verbatim}
+% pprf.crab
+% Call:
+%  PPforest::PPforest(data = crab, size.tr = 1, m = 500, 
+%  PPmethod = "LDA", size.p = 0.5, strata = TRUE) 
+%                Type of random forest: Classification
+%                      Number of trees: 500
+% No. of variables tried at each split: 2
+% 
+%         OOB estimate of  error rate: 6%
+% Confusion matrix:
+%              BF  BM  OF  OM class.error
+% BF           48   2   0   0        0.04
+% BM            5  45   0   0        0.10
+% OF            0   0  45   3        0.10
+% OM            0   1   0  50        0.00
+% \end{verbatim}
+% \end{column}
+% \end{columns}
+% \end{frame}
+% 
+% \begin{frame}
+% \frametitle{PPforest visualization}
+% \begin{columns}
+% \begin{column}{6cm}
+% %\begin{figure}
+% \includegraphics[scale=.5]{proximity} 
+% %\caption{Proximity matrix heat map plot}
+% %\end{figure}
+% \end{column}
+% \begin{column}{6cm}
+% %\begin{figure}
+% \includegraphics[scale=.6]{mds2} 
+% %\caption{MDS plot}
+% %\end{figure}
+% \end{column}
+% \end{columns}
+% \end{frame}
+% 
+% 
+%   
+% \begin{frame}
+% \frametitle{Importance measure}
+% \begin{columns}
+% \begin{column}{6cm}
+% \begin{figure}
+% \includegraphics[scale=.4]{importance} 
+% \caption{PPforest global importance}
+% \end{figure}
+% \end{column}
+% \begin{column}{6cm}
+%  Weighted mean of the absolute value of the projection coefficients across all nodes in every tree. The weights are the projection pursuit index in each node, and 1-(the out of bag error of each tree).
+% 
+% \end{column}
+% \end{columns}
+% \end{frame}
+% 
+% 
+% \begin{frame}
+% \frametitle{Cumulative oob error visualization}
+% \centering
+% \begin{figure}
+% \includegraphics[scale = .7]{cumoob} 
+% \end{figure}
+% \end{frame}
+% 
+% \begin{frame}
+% \frametitle{Prediction accuracy comparison}
+% \small{
+% \begin{center}
+% \begin{table}
+% \caption{Comparison of PPtree, CART, random forest and PPforest results with various data sets. The mean of training and test error rates from 200 re-samples is shown \label{res}}
+% \begin{tabular}{l|cccc|cccc}\hline\hline
+%  &&&{TRAIN}&&&&{TEST}&\\   
+%   &PPtree&	Cart&	RF&	PPforest&	PPtree&	Cart&	RF&	PPforest\\ \hline\hline
+% Crab&	0.04&	0.27&	0.21&	0.05&	0.06&	0.45&	0.31&	0.04\\
+% Leuke.&	0.01&	0.04&	0.06&	0.00&	0.05&	0.15&	0.00&	0.00\\
+% Lymph.&	0.03&	0.05&	0.09&	0.00&	0.07&	0.17&	0.04&	0.04\\
+% NCI60&	0.06&	0.46&	0.45&	0.00&	0.48&	0.75&	0.33&	0.19\\
+% Wine&	0.00&	0.05&	0.03&	0.01&	0.02&	0.12&	0.00&	0.00\\
+% Glass&	0.31&	0.24&	0.25&	0.27&	0.42&	0.34&	0.18&	0.32\\
+% Fish.&	0.00&	0.14&	0.20&	0.00&	0.02&	0.23&	0.26&	0.02\\
+% Image&	0.07&	0.07&	0.02&	0.06&	0.07&	0.08&	0.03&	0.07\\
+% Parki.&	0.12&	0.08&	0.11&	0.12&	0.18&	0.16&	0.09&	0.18\\ \hline\hline
+% \end{tabular}
+% \end{table}
+% \end{center}
+% }
+% \end{frame}
+% 
+% % 
+% % \section{Final comments}
+% % \begin{frame}[fragile]
+% % \frametitle{Comments}
+% % \begin{enumerate}
+% % \item \verb+PPforest+ uses the association between variables to find separation.
+% % \item The strength of each individual tree in the forest increases when classes are linearly separable, smaller error rate in the forest.
+% % \item The predictive performance is better than other classifiers for some of the analyzed data.
+% % \end{enumerate}
+% % \end{frame}
+% 
+% \begin{frame}
+% \frametitle{Further work}
+% \begin{enumerate}
+% \item Improve the performance of the algorithm.
+% \item Incorporate additional project pursuit indexes.
+% \item Improve the visualization.
+% \item Work in regression PPforest.
+% \end{enumerate}
+% \end{frame}
+% 
+
+
+
+\end{document}
